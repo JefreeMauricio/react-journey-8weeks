@@ -1,7 +1,7 @@
 # React Journey - 8 Weeks to Employable
 
 **Objetivo**: React Developer Jr (Redux + GraphQL + Next.js)
-**Dedicación**: 6h/día | **Inicio**: [2026-11-05]
+**Dedicación**: 6h/día | **Inicio**: [2026-05-11]
 
 ## Malla Curricular Oficial
 
